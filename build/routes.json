@@ -7985,7 +7985,7 @@
         "categories": [
           "university"
         ],
-        "example": "/gs/noti",
+        "example": "/bjtu/gs/noti",
         "parameters": {
           "type": "Article type"
         },
