@@ -8039,7 +8039,7 @@
         "maintainers": [
           "E1nzbern"
         ],
-        "description": "\n    | 文章来源           | 参数         |\n    | ----------------- | ------------ |\n    | 通知公告_招生      | noti_zs      |\n    | 通知公告           | noti         |\n    | 新闻动态           | news         |\n    | 招生宣传           | zsxc         |\n    | 培养               | py           |\n    | 招生               | zs           |\n    | 学位               | xw           |\n    | 研工部             | ygb          |\n    | 通知公告 - 研工部   | ygbtzgg      |\n    | 新闻动态 - 研工部   | ygbnews      |\n    | 新闻封面 - 研工部   | ygbnewscover |\n    | 文章列表           | all          |\n    | 博士招生 - 招生专题 | bszs_zszt    |\n    | 硕士招生 - 招生专题 | sszs_zszt    |\n    | 招生简章 - 招生专题 | zsjz_zszt    |\n    | 政策法规 - 招生专题 | zcfg_zszt    |\n\n    :::tip 文章来源\n    文章来源的命名均来自研究生院网站标题。\n    最常用的几项有“通知公告_招生”、“通知公告”、“博士招生 - 招生专题”、“硕士招生 - 招生专题”。\n    :::",
+        "description": "\n  | 文章来源           | 参数         |\n  | ----------------- | ------------ |\n  | 通知公告_招生      | noti_zs      |\n  | 通知公告           | noti         |\n  | 新闻动态           | news         |\n  | 招生宣传           | zsxc         |\n  | 培养               | py           |\n  | 招生               | zs           |\n  | 学位               | xw           |\n  | 研工部             | ygb          |\n  | 通知公告 - 研工部   | ygbtzgg      |\n  | 新闻动态 - 研工部   | ygbnews      |\n  | 新闻封面 - 研工部   | ygbnewscover |\n  | 文章列表           | all          |\n  | 博士招生 - 招生专题 | bszs_zszt    |\n  | 硕士招生 - 招生专题 | sszs_zszt    |\n  | 招生简章 - 招生专题 | zsjz_zszt    |\n  | 政策法规 - 招生专题 | zcfg_zszt    |\n\n  :::tip 文章来源\n  文章来源的命名均来自研究生院网站标题。\n  最常用的几项有“通知公告_招生”、“通知公告”、“博士招生 - 招生专题”、“硕士招生 - 招生专题”。\n  :::",
         "location": "gs.ts"
       }
     },
@@ -54324,7 +54324,7 @@
         "maintainers": [
           "E1nzbern"
         ],
-        "description": "#### 研究生教育通知公告",
+        "description": "研究生教育通知公告",
         "location": "gsee/yjs.ts"
       },
       "/jtys/yjs": {
